@@ -1,0 +1,28 @@
+{% extends 'index.html' %}
+
+
+{% block index %}
+<li><a href="/home" accesskey="1" title="">HOME</a></li>
+<li class="current_page_item"><a href="#" accesskey="2" title="">QRCODE</a></li>
+<li><a href="/brocast" accesskey="3" title="">BROCAST</a></li>
+{% endblock%}
+
+{% block logo %}
+<h1><a href="#header-wrapper">Nat's Chatbot</a></h1>
+{% endblock%}
+
+{% block wrapper1 %}
+{% endblock%}
+
+{% block wrapper3 %}
+<div id="wrapper3">
+	<div id="portfolio" class="container">
+		<div class="title">
+			<h2>Chatbot QRcode</h2>
+			<span class="byline">已註冊用戶數({{ register_num }}/50)</span> </div>
+		<div class="pbox1">
+			<img src="https://qr-official.line.me/M/km-wI3AEOW.png" alt="QRcode url is invalid" title="App_QRcode" class="centerQR">
+		</div>
+	</div>
+</div>
+{% endblock%}

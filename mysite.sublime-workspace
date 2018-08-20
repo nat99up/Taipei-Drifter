@@ -1,0 +1,722 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getenv\tfunction"
+			],
+			[
+				"con",
+				"configure\tmodule"
+			],
+			[
+				"cli",
+				"client_secret\tstatement"
+			],
+			[
+				"fin",
+				"find_elements_by_id\tfunction"
+			],
+			[
+				"time",
+				"time_moment\tstatement"
+			],
+			[
+				"sele",
+				"select_day\tstatement"
+			],
+			[
+				"tim",
+				"time_moment\tstatement"
+			],
+			[
+				"re",
+				"reply_text"
+			],
+			[
+				"cap",
+				"captcha_field\tstatement"
+			],
+			[
+				"captc",
+				"captcha_code\tstatement"
+			],
+			[
+				"is",
+				"isReceiveCaptcha\tstatement"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"ca",
+				"captcha_post_content"
+			],
+			[
+				"captcha_p",
+				"captcha_post"
+			],
+			[
+				"u",
+				"userId\tstatement"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"ima",
+				"ImageSendMessage\tclass"
+			],
+			[
+				"se",
+				"send_signal\tfunction"
+			],
+			[
+				"sig",
+				"signal"
+			],
+			[
+				"wai",
+				"wait_signal\tfunction"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"wi",
+				"while\tWhile Loop"
+			],
+			[
+				"Conn",
+				"ConnectionResetError\tclass"
+			],
+			[
+				"im",
+				"import\tkeyword"
+			],
+			[
+				"es",
+				"exists\tfunction"
+			],
+			[
+				"img",
+				"img_path\tstatement"
+			],
+			[
+				"sel",
+				"selenium\tmodule"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"us",
+				"user_profile\tstatement"
+			],
+			[
+				"str",
+				"strftime\tfunction"
+			],
+			[
+				"user",
+				"user_profile\tstatement"
+			],
+			[
+				"no",
+				"notify_Manager\tfunction"
+			],
+			[
+				"use",
+				"userId\tstatement"
+			],
+			[
+				"not",
+				"notice\tparam"
+			],
+			[
+				"Text",
+				"TextSendMessage\tclass"
+			],
+			[
+				"p",
+				"push_message\tfunction"
+			],
+			[
+				"ge",
+				"getsize\tfunction"
+			],
+			[
+				"Te",
+				"TextSendMessage\tclass"
+			],
+			[
+				"li",
+				"listdir\tfunction"
+			],
+			[
+				"repl",
+				"reply_text\tstatement"
+			],
+			[
+				"mak",
+				"makedirs\tfunction"
+			],
+			[
+				"ex",
+				"exists\tfunction"
+			],
+			[
+				"upload",
+				"upload_photo"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"las",
+				"last_photo\tstatement"
+			],
+			[
+				"Pre",
+				"PersonalInfo\tclass"
+			],
+			[
+				"pr",
+				"profile\tstatement"
+			],
+			[
+				"per",
+				"person_list\tstatement"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"Per",
+				"PersonalInfo\tclass"
+			],
+			[
+				"P",
+				"PersonalInfo\tclass"
+			],
+			[
+				"def",
+				"default\tparam"
+			],
+			[
+				"ma",
+				"max\tfunction"
+			],
+			[
+				"dfa",
+				"default\tparam"
+			],
+			[
+				"Po",
+				"Profile\tclass"
+			],
+			[
+				"In",
+				"IntegerField\tclass"
+			],
+			[
+				"ur",
+				"URLField\tclass"
+			],
+			[
+				"M",
+				"Model\tclass"
+			],
+			[
+				"en",
+				"event\tparam"
+			],
+			[
+				"s",
+				"status_message\tstatement"
+			],
+			[
+				"st",
+				"statusMessage"
+			],
+			[
+				"or",
+				"original_content_url\tparam"
+			],
+			[
+				"Ima",
+				"ImageSendMessage\tclass"
+			],
+			[
+				"mess",
+				"message_type\tstatement"
+			],
+			[
+				"pa",
+				"path\tmodule"
+			],
+			[
+				"d",
+				"dirname\tfunction"
+			],
+			[
+				"we",
+				"WebhookHandler\tclass"
+			],
+			[
+				"ev",
+				"event\tparam"
+			],
+			[
+				"m",
+				"message\tstatement"
+			],
+			[
+				"rep",
+				"reply_text\tstatement"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"Da",
+				"DetailView\tclass"
+			],
+			[
+				"da",
+				"django\tmodule"
+			],
+			[
+				"dat",
+				"datetime\tclass"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"Http",
+				"HttpResponse\tclass"
+			],
+			[
+				"line",
+				"line_bot_api\tstatement"
+			],
+			[
+				"Htt",
+				"HttpResponseBadRequest\tclass"
+			],
+			[
+				"Lin",
+				"LineBotApiError\tclass"
+			],
+			[
+				"ec",
+				"except"
+			],
+			[
+				"H",
+				"HttpResponseForbidden\tclass"
+			],
+			[
+				"cs",
+				"csrf_exempt\tfunction"
+			],
+			[
+				"T",
+				"TextSendMessage\tclass"
+			],
+			[
+				"L",
+				"LineBotApiError\tclass"
+			],
+			[
+				"Ht",
+				"HttpResponseBadRequest\tclass"
+			],
+			[
+				"de",
+				"demo\tfunction"
+			],
+			[
+				"my",
+				"mysite"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"auto",
+				"auto_now_add\tparam"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"ch",
+				"CharField\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bot/views.py",
+			"settings":
+			{
+				"buffer_size": 11863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bot/configure.py",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nat/Desktop/myGithub/python-getting-started",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot"
+	],
+	"file_history":
+	[
+		"/home/nat/Desktop/myGithub/python-getting-started/mysite/urls.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot/views.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/mysite.sublime-project",
+		"/home/nat/Desktop/myGithub/python-getting-started/trips/views.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/trips/models.py",
+		"/home/nat/Desktop/myGithub/try_get_image.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/templates/app_url.html",
+		"/home/nat/Desktop/myGithub/python-getting-started/static/default.css",
+		"/home/nat/Desktop/myGithub/python-getting-started/templates/index.html",
+		"/home/nat/Desktop/myGithub/python-getting-started/templates/brocast.html",
+		"/home/nat/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot/apps.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/mysite/settings.py",
+		"/home/nat/Desktop/myGithub/try_to_upload_img.py",
+		"/home/nat/Desktop/myGithub/get_token.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot/line2imgur.py",
+		"/home/nat/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/nat/Desktop/myGithub/python-getting-started/trips/admin.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot/admin.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/bot/models.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/static/fonts.css",
+		"/home/nat/Desktop/myGithub/python-getting-started/templates/home.html",
+		"/home/nat/Desktop/myGithub/python-getting-started/mysite/wsgi.py",
+		"/home/nat/Desktop/myGithub/python-getting-started/requirements.txt",
+		"/home/nat/Desktop/myGithub/python-getting-started/templates/hello_world.html",
+		"/home/nat/Desktop/myGithub/python-getting-started/Procfile",
+		"/home/nat/djangogirls/mysite/mysite/settings.py",
+		"/home/nat/djangogirls/untitled.sublime-project",
+		"/home/nat/djangogirls/mysite/trips/views.py",
+		"/home/nat/djangogirls/mysite/templates/home.html",
+		"/home/nat/djangogirls/mysite/mysite/urls.py",
+		"/home/nat/djangogirls/mysite/trips/models.py",
+		"/home/nat/djangogirls/mysite/trips/admin.py",
+		"/home/nat/djangogirls/mysite/trips/tests.py",
+		"/home/nat/djangogirls/djangogirls_venv/lib/python3.5/site-packages/django/db/models/fields/__init__.py",
+		"/home/nat/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/nat/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/nat/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"datetime",
+			"from datetime import datetime, timedelta",
+			"timedel",
+			"date",
+			"len",
+			"post.ob",
+			"post",
+			"os",
+			"Post",
+			"PersonalInfo.objects.all()",
+			"person_list",
+			"profile",
+			"get_profile",
+			"PersonalInfo",
+			"img",
+			"header",
+			"jpg",
+			"lint",
+			"width",
+			"min-width:",
+			"MessageEvent",
+			"img",
+			"access"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bot/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4550,
+								4550
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bot/configure.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"BotConfig"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

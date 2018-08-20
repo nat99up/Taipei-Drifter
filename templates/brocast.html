@@ -1,0 +1,37 @@
+{% extends 'index.html' %}
+
+
+{% block index %}
+<li><a href="/home" accesskey="1" title="">HOME</a></li>
+<li><a href="/app_url" accesskey="2" title="">QRCODE</a></li>
+<li class="current_page_item"><a href="#" accesskey="3" title="">BROCAST</a></li>
+{% endblock%}
+
+{% block logo %}
+<h1><a href="#header-wrapper">Chatbot Database</a></h1>
+{% endblock%}
+
+{% block wrapper1 %}
+<div id="wrapper1">
+	<div id="welcome" class="container">
+		<div class="title">
+			<h2>最新上傳圖片</h2>
+			<span class="byline">Provide by {{ last_photo_provider }}</span> </div>
+		<div class="content">
+			<img src="{{ last_photo }}" alt="url is invalid" title="Member's Photo" class="centerImg">
+			</div>
+	</div>
+</div>
+{% endblock%}
+
+{% block wrapper3 %}
+<div id="wrapper3">
+	<div id="portfolio" class="container">
+		<div class="title">
+			<h2>最新留言</h2>
+			<span class="byline">{{ last_message }}</span> </div>
+		<div class="pbox1">
+		</div>
+	</div>
+</div>
+{% endblock%}
